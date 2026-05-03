@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+scikit-learn
+vaderSentiment
+nltk
+python-dotenv
+anthropic
+glob2
