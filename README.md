@@ -52,5 +52,76 @@ Traditional player monitoring only tracks behavior (bet size, frequency). By the
 | 😰 Addicted | 🔴 Very High | Plays until broke, can't stop |
 
 ---
-
 ## 🏗 Architecture
+
+**Data Generation** → **Analysis** → **Application**
+
+- `games.py` + `simulation.py` + `Generate_all.py` — LLM Agent Simulation
+- `Analysis.ipynb` — Behavioral Analysis, NLP, Clustering, Random Forest
+- `app.py` — Streamlit Interactive App
+
+
+---
+
+## 📁 Project Structure
+
+casino-persona-simulator/
+├── app.py                 # Streamlit interactive app
+├── games.py               # Casino game logic (Blackjack, Roulette, Slots)
+├── simulation.py          # AI agent simulation engine
+├── Generate_all.py        # Data generation pipeline
+├── Analysis.ipynb         # Full analysis & findings
+├── data.csv               # Simulated dataset (360 players, 20,000+ rounds)
+└── requirements.txt       # Dependencies
+
+
+---
+
+## ⚠️ Limitations
+
+- **Synthetic data** — all behavior is AI-generated; real human behavior is far more complex
+- **Circular logic** — personas are defined by behavioral rules, so the classifier partially learns these rules rather than discovering novel patterns
+- **Language gap** — NLP signals rely on verbalized reasoning, which isn't available in real-world settings
+- **Sample size** — 360 simulated players is a starting point, not a statistically robust dataset
+- **Overfitting** — Random Forest shows train-test gap (F1: 0.97 vs 0.80)
+
+---
+
+## 🚀 Future Work
+
+- Validate behavioral patterns against real-world anonymized data
+- Expand framework to financial trading and investment scenarios
+- Build real-time risk monitoring system
+- Increase persona diversity and prompt complexity
+
+---
+
+## 🛠 How to Run
+
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the Streamlit app
+streamlit run app.py
+```
+
+Add your Anthropic API key to a `.env` file:
+ANTHROPIC_API_KEY=your_key_here
+
+
+---
+
+## 🔗 Links
+
+- 🎮 **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
+- 📓 **Full Analysis:** [Analysis.ipynb](./Analysis.ipynb)
+
+---
+
+## 👤 About
+
+Built by a MDSI student at UTS as a learning side project.
+Inspired by how companies use AI to simulate customer reactions — applied to human decision-making under pressure.
+
+*Still learning, still building — feedback always welcome!* 🙏
