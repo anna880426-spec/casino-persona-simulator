@@ -65,7 +65,7 @@ Traditional player monitoring only tracks behavior (bet size, frequency). By the
 
 ## 📁 Project Structure
 
-'''
+```
 casino-persona-simulator/
 ├── app.py                 # Streamlit interactive app
 ├── games.py               # Casino game logic (Blackjack, Roulette, Slots)
@@ -74,7 +74,7 @@ casino-persona-simulator/
 ├── Analysis.ipynb         # Full analysis & findings
 ├── data.csv               # Simulated dataset (360 players, 20,000+ rounds)
 └── requirements.txt       # Dependencies
-'''
+```
 
 ---
 
