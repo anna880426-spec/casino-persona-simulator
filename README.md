@@ -16,7 +16,8 @@ This project uses Claude AI to simulate 360 casino players across 8 personality 
 
 ##  Business Problem
 
-How can casino operators and regulators identify at-risk players earlier — before the damage is done? 
+How can casino operators and regulators identify at-risk players earlier — before the damage is done?
+
 <br>
 
 ---
