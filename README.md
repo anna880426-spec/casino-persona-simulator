@@ -10,7 +10,6 @@ This project uses Claude AI to simulate 360 casino players across 8 personality 
 
 **[Try the interactive quiz](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)** — discover your casino persona
 
-<br>
 
 ---
 
@@ -18,7 +17,6 @@ This project uses Claude AI to simulate 360 casino players across 8 personality 
 
 How can casino operators and regulators identify at-risk players earlier — before the damage is done?
 
-<br>
 
 ---
 
