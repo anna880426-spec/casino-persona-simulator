@@ -139,17 +139,27 @@ Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason 
 - You're almost out of money — what do you do?
 - How do you feel about luck tonight?
 
-![Questions Page](screenshots/questions.png)
+![question.png](screenshots/questions.png)
 
-**Step 3 — Discover your persona**
-Get matched to one of 8 casino personas, see your score breakdown, and read your personalized story.
+**Step 3 — See your results**
+- Your personalized story tonight
+![persona_story.png](screenshots/persona_story.png)
 
-![Persona Result](screenshots/result.png)
+- Balance journey chart
+![journey.png](screenshots/journey.png)
 
-**Step 4 — See how someone just like you played**
-Watch a real simulated game session — round by round decisions, inner thoughts, and balance journey.
+- Your result
+![game_result.png](screenshots/game_result.png)
 
-![Game Session](screenshots/game.png)
+- Your persona category
+![personal.png](screenshots/personal.png)
+
+- How someone just like you played — round by round with inner thoughts
+![other_same_persona.png](screenshots/other_same_persona.png)
+
+
+- Comparison - the bankruptcy rate and safest players ranking
+![comparison.png](screenshots/comparison.png)
 
 
 ---
