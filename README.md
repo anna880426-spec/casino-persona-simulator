@@ -118,6 +118,40 @@ ANTHROPIC_API_KEY=your_key_here
 - 🎮 **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
 - 📓 **Full Analysis:** [Analysis.ipynb](./Analysis.ipynb)
 
+
+---
+
+## 🎮 Interactive App
+
+A quiz-based Streamlit app where you answer 5 questions and discover your casino persona — based on behavioral patterns from 360 AI-simulated players.
+
+**How it works:**
+
+**Step 1 — Tell us about yourself**
+Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason for visiting.
+
+![input_data.png](screenshots/input_data.png)
+
+**Step 2 — Answer 5 behavioral questions**
+- What are you here for tonight?
+- You've lost 3 rounds in a row — what do you do?
+- You just doubled your money — what's next?
+- You're almost out of money — what do you do?
+- How do you feel about luck tonight?
+
+![Questions Page](screenshots/questions.png)
+
+**Step 3 — Discover your persona**
+Get matched to one of 8 casino personas, see your score breakdown, and read your personalized story.
+
+![Persona Result](screenshots/result.png)
+
+**Step 4 — See how someone just like you played**
+Watch a real simulated game session — round by round decisions, inner thoughts, and balance journey.
+
+![Game Session](screenshots/game.png)
+
+
 ---
 
 ## 👤 About
