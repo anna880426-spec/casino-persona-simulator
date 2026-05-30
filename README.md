@@ -16,9 +16,7 @@ This project uses Claude AI to simulate 360 casino players across 8 personality 
 
 ##  Business Problem
 
-Traditional player monitoring only tracks behavior (bet size, frequency). By the time dangerous behavior appears, it's often too late.
-
-> **Behavior tells you what players did. Language tells you what they're about to do.**
+How can casino operators and regulators identify at-risk players earlier — before the damage is done?
 
 ---
 
