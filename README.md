@@ -1,8 +1,8 @@
 # 🎰 Casino Persona Simulator
 
-
+<br>
 > **Can we identify psychological risk signals from language — before dangerous behavior even occurs?**
-
+<br>
 
 This project uses Claude AI to simulate 360 casino players across 8 personality types. Each agent makes real-time decisions and records their inner thoughts every round — giving us behavioral data, NLP signals, and psychology to analyze.
 
