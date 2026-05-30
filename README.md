@@ -22,12 +22,12 @@ How can casino operators and regulators identify at-risk players earlier — bef
 
 ##  Business Value
 
-| | Use Case |
+| Description | Use Case |
 |---|---|
-**Early Risk Identification** — identify at-risk players and intervene before harm escalates |
-**No Real Data Needed** — a low-cost simulation tool for regulators and researchers |
-**Transferable Framework** — same pipeline applicable to finance and trading |
-**Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label |
+**Early Risk Identification** — identify at-risk players and intervene before harm escalates | casino |
+**No Real Data Needed** — a low-cost simulation tool for regulators and researchers | regulatory authority|
+**Transferable Framework** — same pipeline applicable to finance and trading to monitor investors or transactors | fintech/finance |
+**Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label | eduation |
 
 *Ironically, the casino industry itself may not be the most motivated adopter — but regulators, responsible gambling organizations, and mental health researchers might be.*
 
@@ -120,7 +120,8 @@ ANTHROPIC_API_KEY=your_key_here
 ##  Links
 
 - **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
-- **Full Analysis:** [Analysis.ipynb](./Analysis.ipynb)
+- **Full Analysis on Githuib:** [Analysis.ipynb](./Analysis.ipynb)
+- **Full Analysis on Google Colab:** [Analysis.ipynb](https://drive.google.com/file/d/10ddebGg0JPlrG-v_Km30-Hm-fULNL6bW/view?usp=sharing) 
 
 
 ---
