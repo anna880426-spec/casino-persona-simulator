@@ -15,8 +15,9 @@ Inspired by how ad companies use AI to model customer reactions, this project ap
 ##  Business Problem
 
 
-> Can AI simulation reveal behavioral patterns that predict gambling risk — even without real-world data?
+Can AI simulation reveal behavioral patterns that predict gambling risk — even without real-world data?
 
+<br>
 
 ---
 
