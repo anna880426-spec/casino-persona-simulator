@@ -143,22 +143,28 @@ Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason 
 
 **Step 3 — See your results**
 - Your personalized story tonight
+- 
 ![persona_story.png](screenshots/persona_story.png)
 
 - Balance journey chart
+- 
 ![journey.png](screenshots/journey.png)
 
 - Your result
+- 
 ![game_result.png](screenshots/game_result.png)
 
 - Your persona category
+- 
 ![personal.png](screenshots/personal.png)
 
 - How someone just like you played — round by round with inner thoughts
+- 
 ![other_same_persona.png](screenshots/other_same_persona.png)
 
 
 - Comparison - the bankruptcy rate and safest players ranking
+- 
 ![comparison.png](screenshots/comparison.png)
 
 
