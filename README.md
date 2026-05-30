@@ -35,7 +35,7 @@ How can casino operators and regulators identify at-risk players earlier — bef
 
 ##  Key Findings
 
-- **Words predict risk better than actions** — sentiment score and danger word rate were stronger classifier signals than bet size
+- **Persona determines fate, not luck** — bankruptcy rate ranges from 0% (Rational, Casual) to 98% (Impulsive), despite all players facing identical odds — confirming that behavioral patterns, not chance, drive outcomes
 - **Specific phrases = danger signals** — rounds containing phrases like *"losses row"* showed **3.46x higher bets** and **8.3x higher bankruptcy risk** within 3 rounds
 - **Safe language = safe outcomes** — players using phrases like *"stop loss"* had a **0% bankruptcy rate** within 3 rounds
 - **Discipline > luck** — Rational players survived the longest (avg 104 rounds) while losing only 21.7%
