@@ -84,20 +84,34 @@ casino-persona-simulator/
 
 ## Limitations
 
-- **Synthetic data** — all behavior is AI-generated; real human behavior is far more complex
-- **Circular logic** — personas are defined by behavioral rules, so the classifier partially learns these rules rather than discovering novel patterns
-- **Language gap** — NLP signals rely on verbalized reasoning, which isn't available in real-world settings
-- **Sample size** — 360 simulated players is a starting point, not a statistically robust dataset
-- **Overfitting** — Random Forest shows train-test gap (F1: 0.97 vs 0.80)
+- **Synthetic data** — All behavioral and psychological data is AI-generated. The model learns patterns from simulated agents, not real humans — real behavior is far more complex and unpredictable.
+- **Circular logic** — Personas are defined by behavioral rules, so the classifier partially learns these rules rather than discovering novel patterns; future work could validate against real-world data to test whether these patterns hold beyond the simulation.
+- **Language gap** — NLP signals are derived from AI-generated reasoning; real-world application would require alternative data sources such as behavioral proxies or self-reported inputs.
+- **Sample size** — 360 simulated players across 8 personas is a starting point, not a statistically robust dataset. Results should be interpreted with caution.
+- **Overfitting** — Random Forest shows train-test gap (F1: 0.97 vs 0.80), suggesting the model may not generalize well to unseen personas or real-world data.
 
 ---
 
 ##  Future Work
 
-- Validate behavioral patterns against real-world anonymized data
-- Expand framework to financial trading and investment scenarios
-- Build real-time risk monitoring system
-- Increase persona diversity and prompt complexity
+- Technical aspect
+   1. Validate against real-world data to improve model reliability
+   2. Create more diverse personas to enrich simulation depth
+   3. Improve agent prompts or switch models to make AI behavior closer to real humans
+
+ 
+- Application aspect
+
+  1. Transfer the framework to finance or investment scenarios
+  2. Partner with regulatory authorities to pilot a responsible gambling intervention system
+  3. Build a real-time monitoring system that alerts at-risk behavior as it happens
+
+- Research aspect
+
+   1. Statistically validate whether AI-simulated behavior mirrors real human behavior
+   2. Explore other high-stress decision-making scenarios, such as medical triage or emergency response
+
+*The ultimate goal is to validate this framework against real-world data — and expand it beyond casinos to any domain where understanding human behavior under pressure has significant value.*
 
 ---
 
@@ -179,6 +193,6 @@ Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason 
 
 Built by a MDSI student at UTS as a learning side project.
 Inspired by how companies use AI to simulate customer reactions — applied to human decision-making under pressure.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/albee-tsai)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/albee-tsai) .
 
 *Still learning, still building — feedback always welcome!* 🙏
