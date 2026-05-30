@@ -46,14 +46,14 @@ How can casino operators and regulators identify at-risk players earlier — bef
 
 | Persona | Risk Level | Key Trait |
 |---|---|---|
-| 😊 Casual | 🟢 Low | Here for fun, leaves early |
-| 😟 Loss Averse | 🟢 Very Low | Minimum bets, leaves at first loss |
-| 🧠 Rational | 🟡 Moderate | Strict stop-loss and take-profit rules |
-| 📊 Analytical | 🟡 Moderate | Pattern-tracking, skill-based games |
-| 🎉 Social | 🟠 Moderate-High | Atmosphere-driven, inconsistent bets |
-| 🔥 Impulsive | 🔴 High | Chases losses, emotionally driven |
-| 🔮 Superstitious | 🔴 High | Ritual-based, rarely leaves |
-| 😰 Addicted | 🔴 Very High | Plays until broke, can't stop |
+| Casual | 🟢 Low | Here for fun, leaves early |
+| Loss Averse | 🟢 Very Low | Minimum bets, leaves at first loss |
+| Rational | 🟡 Moderate | Strict stop-loss and take-profit rules |
+| Analytical | 🟡 Moderate | Pattern-tracking, skill-based games |
+| Social | 🟠 Moderate-High | Atmosphere-driven, inconsistent bets |
+| Impulsive | 🔴 High | Chases losses, emotionally driven |
+| Superstitious | 🔴 High | Ritual-based, rarely leaves |
+| Addicted | 🔴 Very High | Plays until broke, can't stop |
 
 ---
 ## 🏗 Architecture
