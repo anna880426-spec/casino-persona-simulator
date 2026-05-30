@@ -4,11 +4,11 @@
 
 This project uses Claude AI to simulate 360 casino players across 8 personality types. Each agent makes real-time decisions and records their inner thoughts every round — giving us behavioral data, NLP signals, and psychology to analyze.
 
-🎮 **[Try the interactive quiz](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)** — discover your casino persona
+**[Try the interactive quiz](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)** — discover your casino persona
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 
 Traditional player monitoring only tracks behavior (bet size, frequency). By the time dangerous behavior appears, it's often too late.
 
@@ -16,20 +16,20 @@ Traditional player monitoring only tracks behavior (bet size, frequency). By the
 
 ---
 
-## 💡 Business Value
+##  Business Value
 
 | | Use Case |
 |---|---|
-| 🎰 | **Early Risk Identification** — identify at-risk players and intervene before harm escalates |
-| 🏛 | **No Real Data Needed** — a low-cost simulation tool for regulators and researchers |
-| 💹 | **Transferable Framework** — same pipeline applicable to finance and trading |
-| 📚 | **Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label |
+**Early Risk Identification** — identify at-risk players and intervene before harm escalates |
+**No Real Data Needed** — a low-cost simulation tool for regulators and researchers |
+**Transferable Framework** — same pipeline applicable to finance and trading |
+**Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label |
 
 *Ironically, the casino industry itself may not be the most motivated adopter — but regulators, responsible gambling organizations, and mental health researchers might be.*
 
 ---
 
-## 📊 Key Findings
+##  Key Findings
 
 - **Words predict risk better than actions** — sentiment score and danger word rate were stronger classifier signals than bet size
 - **Specific phrases = danger signals** — rounds containing phrases like *"losses row"* showed **3.46x higher bets** and **8.3x higher bankruptcy risk** within 3 rounds
@@ -38,7 +38,7 @@ Traditional player monitoring only tracks behavior (bet size, frequency). By the
 
 ---
 
-## 🧠 8 Persona Types
+## 8 Persona Types
 
 | Persona | Risk Level | Key Trait |
 |---|---|---|
@@ -63,7 +63,7 @@ Traditional player monitoring only tracks behavior (bet size, frequency). By the
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 casino-persona-simulator/
@@ -78,7 +78,7 @@ casino-persona-simulator/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - **Synthetic data** — all behavior is AI-generated; real human behavior is far more complex
 - **Circular logic** — personas are defined by behavioral rules, so the classifier partially learns these rules rather than discovering novel patterns
@@ -88,7 +88,7 @@ casino-persona-simulator/
 
 ---
 
-## 🚀 Future Work
+##  Future Work
 
 - Validate behavioral patterns against real-world anonymized data
 - Expand framework to financial trading and investment scenarios
@@ -97,7 +97,7 @@ casino-persona-simulator/
 
 ---
 
-## 🛠 How to Run
+##  How to Run
 
 ```bash
 # Install dependencies
@@ -113,15 +113,15 @@ ANTHROPIC_API_KEY=your_key_here
 
 ---
 
-## 🔗 Links
+##  Links
 
-- 🎮 **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
-- 📓 **Full Analysis:** [Analysis.ipynb](./Analysis.ipynb)
+- **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
+- **Full Analysis:** [Analysis.ipynb](./Analysis.ipynb)
 
 
 ---
 
-## 🎮 Interactive App
+##  Interactive App
 
 A quiz-based Streamlit app where you answer 5 questions and discover your casino persona — based on behavioral patterns from 360 AI-simulated players.
 
@@ -170,9 +170,10 @@ Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason 
 
 ---
 
-## 👤 About
+##  About
 
 Built by a MDSI student at UTS as a learning side project.
 Inspired by how companies use AI to simulate customer reactions — applied to human decision-making under pressure.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/albee-tsai)
 
 *Still learning, still building — feedback always welcome!* 🙏
