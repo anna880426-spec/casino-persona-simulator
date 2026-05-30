@@ -9,6 +9,7 @@ Inspired by how ad companies use AI to model customer reactions, this project ap
 
 **[Try the interactive quiz](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)** — discover your casino persona
 
+<br>
 
 ---
 
@@ -17,7 +18,7 @@ Inspired by how ad companies use AI to model customer reactions, this project ap
 
 Can AI simulation reveal behavioral patterns that predict gambling risk — even without real-world data?
 
-<br>
+
 
 ---
 
