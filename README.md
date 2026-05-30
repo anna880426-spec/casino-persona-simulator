@@ -2,11 +2,10 @@
 
 <br>
 
-> **Can we identify psychological risk signals from language — before dangerous behavior even occurs?**
+> If AI can simulate how customers react to a new product — what else can it simulate?
 
 <br>
-
-This project uses Claude AI to simulate 360 casino players across 8 personality types. Each agent makes real-time decisions and records their inner thoughts every round — giving us behavioral data, NLP signals, and psychology to analyze.
+Inspired by how ad companies use AI to model customer reactions, this project applies the same idea to human behavior — simulating 360 casino players across 8 personality types, each making real-time decisions and recording their inner thoughts every round.
 
 **[Try the interactive quiz](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)** — discover your casino persona
 
@@ -15,7 +14,8 @@ This project uses Claude AI to simulate 360 casino players across 8 personality 
 
 ##  Business Problem
 
-How can casino operators and regulators identify at-risk players earlier — before the damage is done?
+
+> Can AI simulation reveal behavioral patterns that predict gambling risk — even without real-world data?
 
 
 ---
@@ -24,10 +24,10 @@ How can casino operators and regulators identify at-risk players earlier — bef
 
 | Description | Use Case |
 |---|---|
-**Early Risk Identification** — identify at-risk players and intervene before harm escalates | casino |
-**No Real Data Needed** — a low-cost simulation tool for regulators and researchers | regulatory authority|
-**Transferable Framework** — same pipeline applicable to finance and trading to monitor investors or transactors | fintech/finance |
-**Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label | eduation |
+|**Early Risk Identification** — identify at-risk players and intervene before harm escalates | casino |
+|**No Real Data Needed** — a low-cost simulation tool for regulators and researchers | regulatory authority|
+|**Transferable Framework** — same pipeline applicable to finance and trading to monitor investors or transactors | fintech/finance |
+|**Educational Tool** — seeing someone with your own mindset go broke is more impactful than any warning label | education |
 
 *Ironically, the casino industry itself may not be the most motivated adopter — but regulators, responsible gambling organizations, and mental health researchers might be.*
 
@@ -111,7 +111,7 @@ casino-persona-simulator/
    1. Statistically validate whether AI-simulated behavior mirrors real human behavior
    2. Explore other high-stress decision-making scenarios, such as medical triage or emergency response
 
-*The ultimate goal is to validate this framework against real-world data — and expand it beyond casinos to any domain where understanding human behavior under pressure has significant value.*
+*The ultimate goal is to validate this framework against real-world data — and expand it beyond casinos to any domain where understanding human behavior has significant value.*
 
 ---
 
@@ -134,7 +134,7 @@ ANTHROPIC_API_KEY=your_key_here
 ##  Links
 
 - **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
-- **Full Analysis on Githuib:** [View on GitHub](./Analysis.ipynb)
+- **Full Analysis on GitHub:** [View on GitHub](./Analysis.ipynb)
 - **Full Analysis on Google Colab:** [Open in Colab](https://drive.google.com/file/d/10ddebGg0JPlrG-v_Km30-Hm-fULNL6bW/view?usp=sharing) 
 
 
@@ -192,7 +192,7 @@ Fill in your profile: age, gender, occupation, budget, outfit, mood, and reason 
 ##  About
 
 Built by a MDSI student at UTS as a learning side project.
-Inspired by how companies use AI to simulate customer reactions — applied to human decision-making under pressure.
+Inspired by how companies use AI to simulate customer reactions — applied to human decision-making.
 Connect with me on [LinkedIn](https://www.linkedin.com/in/albee-tsai) .
 
 *Still learning, still building — feedback always welcome!* 🙏
