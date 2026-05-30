@@ -120,8 +120,8 @@ ANTHROPIC_API_KEY=your_key_here
 ##  Links
 
 - **Live App:** [Casino Persona Simulator](https://casino-persona-simulator-pnhaymasntf2th9fr6ffpr.streamlit.app/)
-- **Full Analysis on Githuib:** [Analysis.ipynb](./Analysis.ipynb)
-- **Full Analysis on Google Colab:** [Analysis.ipynb](https://drive.google.com/file/d/10ddebGg0JPlrG-v_Km30-Hm-fULNL6bW/view?usp=sharing) 
+- **Full Analysis on Githuib:** [View on GitHub](./Analysis.ipynb)
+- **Full Analysis on Google Colab:** [Open in Colab](https://drive.google.com/file/d/10ddebGg0JPlrG-v_Km30-Hm-fULNL6bW/view?usp=sharing) 
 
 
 ---
